@@ -1,4 +1,4 @@
-Programa neste repositório é referente ao exercicio abaixo:
+<b>Programa neste repositório é referente ao exercicio abaixo:</b>
 
 ** 
 Implemente um projeto no qual serão inseridos números de forma ordenada, e que atenda as especificações a seguir: 
@@ -15,5 +15,5 @@ Analise a ordem dos números exibidos e verifique se estão na mesma forma que f
 O programa desenvolvido pelo aluno e a sua justificativa deverá ser postado em um ambiente virtual. Esse programa será avaliado pelo tutor responsável pela disciplina. 
  **
 
-Resposta:
+<b>Resposta:</b>
 A ordem dos numeros não estão da mesma forma como quando foram inseridos, pois na pilha o último a entrar é o primeiro a sair, “Last In, First Out”.
