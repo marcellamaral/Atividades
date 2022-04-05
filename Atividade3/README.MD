@@ -1,6 +1,6 @@
 Programa neste repositório é referente ao exercicio abaixo:
 
-**
+** 
 Implemente um projeto no qual serão inseridos números de forma ordenada, e que atenda as especificações a seguir: 
  
 Passo 1: Insira os números [1, 2, 3, 4 e 5] em uma lista - com 5 células; 
@@ -13,7 +13,7 @@ Passo 6: Exiba todos os números que foram inseridos na fila.
 Analise a ordem dos números exibidos e verifique se estão na mesma forma que foram inseridos. Se a exibição foi diferente, justifique o ocorrido. 
  
 O programa desenvolvido pelo aluno e a sua justificativa deverá ser postado em um ambiente virtual. Esse programa será avaliado pelo tutor responsável pela disciplina. 
-**
+ **
 
 Resposta:
 A ordem dos numeros não estão da mesma forma como quando foram inseridos, pois na pilha o último a entrar é o primeiro a sair, “Last In, First Out”.
